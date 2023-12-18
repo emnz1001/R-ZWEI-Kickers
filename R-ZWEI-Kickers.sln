@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "R-ZWEI-Kickers", "R-ZWEI-Kickers\R-ZWEI-Kickers.vcxproj", "{4FD63998-D975-4D33-8303-49788A6D371D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Debug|x64.ActiveCfg = Debug|x64
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Debug|x64.Build.0 = Debug|x64
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Debug|x86.Build.0 = Debug|Win32
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Release|x64.ActiveCfg = Release|x64
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Release|x64.Build.0 = Release|x64
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Release|x86.ActiveCfg = Release|Win32
+		{4FD63998-D975-4D33-8303-49788A6D371D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7E9F1D-6191-4022-8BA4-AE713AF63353}
+	EndGlobalSection
+EndGlobal
